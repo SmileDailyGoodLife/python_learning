@@ -1,6 +1,6 @@
 # Python Programming Basics: Data Structures and Algorithms
 
-This repository contains a Jupyter notebook that provides a comprehensive introduction to fundamental Python programming concepts, including regular expressions, arrays, linked lists, and other essential data structures. Each section includes explanations, examples, and practical exercises.
+This repository contains Jupyter notebooks that provide a comprehensive introduction to fundamental Python programming concepts, including regular expressions, arrays, linked lists, and other essential data structures. Each section includes explanations, examples, and practical exercises.
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ This repository contains a Jupyter notebook that provides a comprehensive introd
 3. [Matrix Operations](#matrix-operations)
 4. [Linked Lists](#linked-lists)
 5. [Queues and Stacks](#queues-and-stacks)
+6. [Hashing and Security](#hashing-and-security)
 
 ## Regular Expressions
 
@@ -29,6 +30,12 @@ Understand the implementation and operations of linked lists, including insertio
 ## Queues and Stacks
 
 Explore the concepts of queues and stacks using Python's `collections.deque` module. This section includes examples of queue operations (enqueue and dequeue) and stack operations (push and pop).
+
+## Hashing and Security
+
+This section covers the basics of hashing, including dictionary and hash tables, advanced hashing with `hashlib`, and handling hash collisions. It also includes practical projects like a file integrity checker and a simple password manager.
+
+For more advanced topics on hashing, refer to the separate file: `python-hashing.ipynb`.
 
 ## How to Use
 
